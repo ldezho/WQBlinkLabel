@@ -1,0 +1,6 @@
+framework module WQBlinkLabel {
+  umbrella header "WQBlinkLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
